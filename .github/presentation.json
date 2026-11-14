@@ -1,0 +1,27 @@
+{
+  "etiquette": "Outil personnel · pages publiques",
+  "titre": "L'accueil et les règles de confidentialité de Life Dashboard.",
+  "chapo": "Un outil personnel qui consulte des agendas Google, y bloque des créneaux et prépare des brouillons de mails, sans jamais en envoyer.",
+  "briques": [
+    {
+      "nom": "Accueil",
+      "role": "Ce que fait l'outil",
+      "icone": "page"
+    },
+    {
+      "nom": "Confidentialité",
+      "role": "Données et usage",
+      "icone": "bouclier"
+    },
+    {
+      "nom": "Agendas",
+      "role": "Créneaux lus et bloqués",
+      "icone": "agenda"
+    },
+    {
+      "nom": "Brouillons de mails",
+      "role": "Jamais d'envoi",
+      "icone": "mail"
+    }
+  ]
+}
